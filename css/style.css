@@ -1,0 +1,134 @@
+*{
+     font-family:'Lucida Sans', sans-serif;
+     width: auto;
+}
+
+html{
+     font-size: 62.5%;
+     color: rgb(0, 0, 0);
+}
+
+h1,
+h2{
+    font-weight: 500;
+    font-size: 3rem;
+    text-align: center;
+}
+
+h3{
+    font-weight: 500;
+    font-size: 2rem;
+    text-align: center;
+}
+
+h4{
+    font-weight: 500;
+    font-size: 1.7rem;
+    text-align: left; 
+    font-weight: bold;
+}
+
+h5{
+    font-weight: 500;
+    font-size: 1.5rem;
+    text-align: left;
+}
+
+p{
+    font-size: 1.6rem;
+}
+
+#encabezado{
+    font-style: italic;
+}
+
+.ptext{
+    color: rgb(0, 0, 0);
+    text-align:center;
+    font-size: 1.6rem;
+    line-height: 1.8rem;
+    padding: 0 15%;
+}
+
+label{
+    color:rgb(0, 0, 0)
+}
+
+header img{
+    width: 100%;
+}
+ 
+section{
+    text-align: center;
+}
+
+.botonera{
+    background-color: rgb(187, 160, 213);
+}
+
+ .botonera ul li a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 1.8rem;
+    float: left;
+    display: inline-flex; 
+ }
+
+.text-center{
+    text-align: center;
+}
+
+ .bg-pattern{
+    background-image: url(../img/backgrounds/bubble2.png);
+    background-attachment: fixed;
+ }
+
+.contenedor{
+    background-color: none;
+    width: 90%;
+    height: auto;
+    margin: 25px auto;
+    padding: 8px 10px;
+    border: none;
+    overflow: auto;
+}
+ 
+.formulario{
+    width: 20px;
+}
+
+.cajasprod{
+    width: 20% ;
+    padding: 10px 10px;
+    float: left;
+    object-fit: cover;
+}
+
+.productos{
+    width: 28% ;
+    padding: 10px 30px;
+    float: left;
+    object-fit: cover;
+}
+
+.btn-violet{
+   background-color: rgb(187, 160, 213);
+   color: white;
+   border: none;
+}
+
+.cardfooter{
+    border: none;
+    background-color: rgb(187, 160, 213);
+}
+
+.bordes{
+    border:none
+}
+
+.centerimg{
+     width: 80%;
+     text-align: center;
+     margin:auto;
+}
+
