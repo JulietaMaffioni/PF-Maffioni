@@ -1,0 +1,31 @@
+.contenedor{
+    background-color: none;
+    width: 90%;
+    height: auto;
+    margin: 25px auto;
+    padding: 8px 10px;
+    border: none;
+    overflow: auto;
+}
+
+.contenedor-fondo{
+    @extend .contenedor;
+    background-color: rgb(225, 206, 232);
+    width: 100%;
+}
+
+@mixin textos ($size, $line, $weight){
+    font-size: $size;
+    line-height: $line;
+    font-weight: $weight;
+    color: $textColor;
+    font-family: $mainFont;
+}
+
+$paleta:(
+    'negro': rgb(0, 0, 0),
+    'blanco': rgb(255, 255, 255),
+    'lila': rgb(187, 160, 213),
+    'violeta': rgb(163, 131, 171),
+);
+

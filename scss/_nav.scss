@@ -1,0 +1,19 @@
+.botonera{
+    background-color: $mainColor;
+    img{
+        width: 120px;
+    }
+    ul{
+        li{
+            a{
+                color: $textColor;
+                text-decoration: none;
+                font-size: $textL;
+                float: left;
+                display: inline-flex; 
+                }
+            }
+        }
+}   
+
+
