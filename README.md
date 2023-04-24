@@ -1,7 +1,4 @@
-#PreEntrega3-Maffionijulieta 
-Agregue Sass y Seo
-
-
-# PreEntrega2-Maffionijulieta
-
-Realice cambios utilizando bootstrap en las paginas index, somos nosotros y contacto.
+Hola! hago entrega de mi Proyecto final, realice una página simulando ser un salón de masajes y manicuría, en la realidad a eso me dedico y me pareció una buena idea aprovechar lo que sé para utilizar esa informacíon en la construccion de la página. 
+Agregué el sector de productos ya que mi intención es continuar aprendiendo (de hecho estoy anotada en full stack) y poder agregarle cosas como el carrito de compras y demas funciones. 
+Espero haber cumplido con los objetivos del curso, disfrute mucho las clases y el contenido, particularmente no se me dificultó demasiado entender las cosas, si bien de entender lo que explican a aplicarlo hay una vida pero por eso mismo espero haber logrado dejar en mi proyecto plasmado el aprendizaje.
+Les agradezco la buena onda cada lunes y miercoles a ambas (Lau y Maca, no sé quien corregirá). Saludos! 
