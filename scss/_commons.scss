@@ -102,6 +102,10 @@ div{
    border: none;
 }
 
+ body{
+   overflow-x:hidden
+}
+
 @media (max-width: 480px){
    .centerimg{
       width: 100%;
